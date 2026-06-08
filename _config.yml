@@ -172,6 +172,7 @@ exclude:
   - Gemfile.lock
   - vendor
   - _posts/2020-09-28-twitter.md
+  - _posts/2021-07-04-diagrams.md
 keep_files:
   - CNAME
   - .nojekyll

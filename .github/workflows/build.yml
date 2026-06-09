@@ -2,22 +2,27 @@ name: Build Jekyll site
 
 on:
   push:
-    branches: [ master ]   # 监听你存放源文件的分支，通常是 master 或 main
+    branches: [ master ]   # 如果你用的是 main 分支，请改成 main
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-ruby@v1
+      
+      - uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.0'
+          ruby-version: '3.1'
+          bundler-cache: true
+          
       - name: Install dependencies
         run: |
           gem install bundler
           bundle install
+          
       - name: Build site
         run: bundle exec jekyll build
+        
       - name: Deploy to dist branch
         uses: peaceiris/actions-gh-pages@v3
         with:

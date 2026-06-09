@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://EmbodicaLAB.github.io//sitemap.xml

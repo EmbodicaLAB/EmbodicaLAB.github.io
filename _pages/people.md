@@ -8,39 +8,95 @@ nav_order: 9
 ---
 
 <h2>Faculty</h2>
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+
+<div style="display: flex; flex-wrap: wrap; gap: 40px;">
   <div style="text-align: center; width: 180px;">
-    <img src="/assets/img/BZS.jpg" style="width: 100%; border-radius: 12px;" alt="Zhenshan Bing">
-    <p><strong>Zhenshan Bing</strong><br>Associate Professor, RI</p>
+    <img src="/assets/img/BZS.jpg"
+         style="width: 180px; height: 220px; object-fit: cover; border-radius: 12px;"
+         alt="Zhenshan Bing">
+
     <p>
-      <a href="https://zhenshan-bing.github.io/zhenshan/"><i class="fas fa-home"></i></a>&nbsp;
-      <a href="mailto:bing@nju.edu.en"><i class="fas fa-envelope"></i></a>&nbsp;
-      <!-- <a href="https://twitter.com/guanya"><i class="fab fa-twitter"></i></a> -->
+      <strong>Zhenshan Bing</strong><br>
+      Associate Professor, RI
+    </p>
+
+    <p>
+      <a href="https://zhenshan-bing.github.io/zhenshan/" target="_blank">
+        <i class="fas fa-home"></i>
+      </a>&nbsp;
+
+      <a href="mailto:bing@nju.edu.cn">
+        <i class="fas fa-envelope"></i>
+      </a>
+
+      <!--
+      &nbsp;
+      <a href="https://twitter.com/xxx">
+        <i class="fab fa-twitter"></i>
+      </a>
+      -->
     </p>
   </div>
 </div>
 
-<h2>Ph.D. Student</h2>
-        
+
+<h2>Ph.D. Students</h2>
+
 <div style="display: flex; flex-wrap: wrap; gap: 40px;">
+
   <div style="text-align: center; width: 180px;">
-    <img src="/assets/img/ZYK.png" style="width: 100%; border-radius: 12px;" alt="Yinkai Zhu">
-    <p><strong>Yinkai Zhu</strong><br>Class of 2026</p>
+    <img src="/assets/img/ZYK.png"
+         style="width: 180px; height: 220px; object-fit: cover; border-radius: 12px;"
+         alt="Yinkai Zhu">
+
+    <p>
+      <strong>Yinkai Zhu</strong><br>
+      Class of 2026
+    </p>
   </div>
+
   <div style="text-align: center; width: 180px;">
-    <img src="/assets/img/GCL.jpg" style="width: 100%; border-radius: 12px;" alt="Chenglong Guo">
-    <p><strong>Chenglong Guo</strong><br>Class of 2026</p>
+    <img src="/assets/img/GCL.jpg"
+         style="width: 180px; height: 220px; object-fit: cover; border-radius: 12px;"
+         alt="Chenglong Guo">
+
+    <p>
+      <strong>Chenglong Guo</strong><br>
+      Class of 2026
+    </p>
   </div>
+
 </div>
 
-<h2>Master's Student</h2>
+
+<h2>Master's Students</h2>
+
 <div style="display: flex; flex-wrap: wrap; gap: 40px;">
+
   <div style="text-align: center; width: 180px;">
-    <img src="/assets/img/JTY.jpg" style="width: 100%; border-radius: 12px;" alt="Tianyi Jiang">
-    <p><strong>Tianyi Jiang</strong><br>Class of 2026</p>
+    <img src="/assets/img/JTY.jpg"
+         style="width: 180px; height: 220px; object-fit: cover; border-radius: 12px;"
+         alt="Tianyi Jiang">
+
+    <p>
+      <strong>Tianyi Jiang</strong><br>
+      Class of 2026
+    </p>
   </div>
 
 </div>
 
-  <!-- 添加更多学生：复制粘贴上面结构即可 -->
-<!-- </div> -->
+<!--
+添加更多成员时，复制下面这一段即可：
+
+<div style="text-align: center; width: 180px;">
+  <img src="/assets/img/XXX.jpg"
+       style="width: 180px; height: 220px; object-fit: cover; border-radius: 12px;"
+       alt="Name">
+
+  <p>
+    <strong>Name</strong><br>
+    Class of 20XX
+  </p>
+</div>
+-->

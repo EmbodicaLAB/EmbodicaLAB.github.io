@@ -75,7 +75,7 @@ nav_order: 9
     <p>
       <strong>Xuanyu Lai</strong><br>
       Class of 2026<br>
-      co-supervised with Prof. Fuchun Sun
+      (co-supervised with<br>Prof. Fuchun Sun)
     </p>
   </div>
 

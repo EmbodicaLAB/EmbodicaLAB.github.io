@@ -22,7 +22,7 @@ nav_order: 9
 
 <h2>Ph.D. Student</h2>
         
-<div style="display: flex; flex-wrap: wrap; gap: 30px;">
+<div style="display: flex; flex-wrap: wrap; gap: 40px;">
   <div style="text-align: center; width: 180px;">
     <img src="/assets/img/ZYK.png" style="width: 100%; border-radius: 12px;" alt="Yinkai Zhu">
     <p><strong>Yinkai Zhu</strong><br>Class of 2026</p>
@@ -34,7 +34,13 @@ nav_order: 9
 </div>
 
 <h2>Master's Student</h2>
+<div style="display: flex; flex-wrap: wrap; gap: 40px;">
+  <div style="text-align: center; width: 180px;">
+    <img src="/assets/img/JTY.jpg" style="width: 100%; border-radius: 12px;" alt="Tianyi Jiang">
+    <p><strong>Tianyi Jiang</strong><br>Class of 2026</p>
+  </div>
 
+</div>
 
   <!-- 添加更多学生：复制粘贴上面结构即可 -->
 <!-- </div> -->

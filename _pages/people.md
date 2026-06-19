@@ -51,7 +51,6 @@ nav_order: 9
 
     <p>
       <strong>Yinkai Zhu</strong><br>
-      Entering Class of 2026
     </p>
   </div>
 
@@ -62,7 +61,6 @@ nav_order: 9
 
     <p>
       <strong>Chenglong Guo</strong><br>
-      Entering Class of 2026
 
     </p>
   </div>
@@ -74,7 +72,6 @@ nav_order: 9
 
     <p>
       <strong>Xuanyu Lai</strong><br>
-      Entering Class of 2026<br>
       (co-supervised with<br>Prof. Fuchun Sun)
     </p>
   </div>
@@ -93,7 +90,6 @@ nav_order: 9
 
     <p>
       <strong>Yuxuan Wang</strong><br>
-      Entering Class of 2026
     </p>
   </div>
 
@@ -104,7 +100,6 @@ nav_order: 9
 
     <p>
       <strong>Haorui Jia</strong><br>
-      Entering Class of 2026
     </p>
   </div>
 
@@ -115,7 +110,6 @@ nav_order: 9
 
     <p>
       <strong>Tianyi Jiang</strong><br>
-      Entering Class of 2026
     </p>
   </div>
 

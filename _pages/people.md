@@ -62,8 +62,8 @@ nav_order: 9
 
     <p>
       <strong>Chenglong Guo</strong><br>
-      Class of 2026<br>
-      co-supervised with Prof. Fuchun Sun
+      Class of 2026
+
     </p>
   </div>
 
@@ -74,7 +74,8 @@ nav_order: 9
 
     <p>
       <strong>Xuanyu Lai</strong><br>
-      Class of 2026
+      Class of 2026<br>
+      co-supervised with Prof. Fuchun Sun
     </p>
   </div>
 

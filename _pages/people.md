@@ -22,7 +22,7 @@ nav_order: 9
 
 <h2>Ph.D. Student</h2>
         
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+<div style="display: flex; flex-wrap: wrap; gap: 30px;">
   <div style="text-align: center; width: 180px;">
     <img src="/assets/img/ZYK.png" style="width: 100%; border-radius: 12px;" alt="Yinkai Zhu">
     <p><strong>Yinkai Zhu</strong><br>Class of 2026</p>

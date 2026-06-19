@@ -42,7 +42,7 @@ nav_order: 9
 
 <h2>Ph.D. Students</h2>
 
-<div style="display: flex; flex-wrap: wrap; gap: 80px;">
+<div style="display: flex; flex-wrap: wrap; gap: 60px;">
 
   <div style="text-align: center; width: 180px;">
     <img src="/assets/img/ZYK.png"
@@ -66,12 +66,45 @@ nav_order: 9
     </p>
   </div>
 
+    <div style="text-align: center; width: 180px;">
+    <img src="/assets/img/LXY.jpg"
+         style="width: 180px; height: 240px; object-fit: cover; border-radius: 12px;"
+         alt="Xuanyu Lai">
+
+    <p>
+      <strong>Xuanyu Lai</strong><br>
+      Class of 2026
+    </p>
+  </div>
+
 </div>
 
 
 <h2>Master's Students</h2>
 
-<div style="display: flex; flex-wrap: wrap; gap: 40px;">
+<div style="display: flex; flex-wrap: wrap; gap: 60px;">
+
+  <div style="text-align: center; width: 180px;">
+    <img src="/assets/img/WYX.jpg"
+         style="width: 180px; height: 240px; object-fit: cover; border-radius: 12px;"
+         alt="Yuxuan Wang">
+
+    <p>
+      <strong>Yuxuan Wang</strong><br>
+      Class of 2026
+    </p>
+  </div>
+
+    <div style="text-align: center; width: 180px;">
+    <img src="/assets/img/JHR.jpg"
+         style="width: 180px; height: 240px; object-fit: cover; border-radius: 12px;"
+         alt="Haorui Jia">
+
+    <p>
+      <strong>Haorui Jia</strong><br>
+      Class of 2026
+    </p>
+  </div>
 
   <div style="text-align: center; width: 180px;">
     <img src="/assets/img/JTY.jpg"

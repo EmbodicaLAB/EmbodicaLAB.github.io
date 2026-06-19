@@ -12,7 +12,7 @@ nav_order: 9
 <div style="display: flex; flex-wrap: wrap; gap: 40px;">
   <div style="text-align: center; width: 180px;">
     <img src="/assets/img/BZS.jpg"
-         style="width: 180px; height: 220px; object-fit: cover; border-radius: 12px;"
+         style="width: 180px; height: 240px; object-fit: cover; border-radius: 12px;"
          alt="Zhenshan Bing">
 
     <p>
@@ -46,7 +46,7 @@ nav_order: 9
 
   <div style="text-align: center; width: 180px;">
     <img src="/assets/img/ZYK.png"
-         style="width: 180px; height: 220px; object-fit: cover; border-radius: 12px;"
+         style="width: 180px; height: 240px; object-fit: cover; border-radius: 12px;"
          alt="Yinkai Zhu">
 
     <p>

@@ -42,7 +42,7 @@ nav_order: 9
 
 <h2>Ph.D. Students</h2>
 
-<div style="display: flex; flex-wrap: wrap; gap: 60px;">
+<div style="display: flex; flex-wrap: wrap; gap: 80px;">
 
   <div style="text-align: center; width: 180px;">
     <img src="/assets/img/ZYK.png"
@@ -82,7 +82,7 @@ nav_order: 9
 
 <h2>Master's Students</h2>
 
-<div style="display: flex; flex-wrap: wrap; gap: 60px;">
+<div style="display: flex; flex-wrap: wrap; gap: 70px;">
 
   <div style="text-align: center; width: 180px;">
     <img src="/assets/img/WYX.jpg"

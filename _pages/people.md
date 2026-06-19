@@ -82,7 +82,7 @@ nav_order: 9
 
 <h2>Master's Students</h2>
 
-<div style="display: flex; flex-wrap: wrap; gap: 30px;">
+<div style="display: flex; flex-wrap: wrap; gap: 100px;">
 
   <div style="text-align: center; width: 180px;">
     <img src="/assets/img/WYX.jpg"

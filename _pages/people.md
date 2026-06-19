@@ -9,7 +9,7 @@ nav_order: 9
 
 <h2>Faculty</h2>
 
-<div style="display: flex; flex-wrap: wrap; gap: 40px;">
+<div style="display: flex; flex-wrap: wrap; gap: 100px;">
   <div style="text-align: center; width: 180px;">
     <img src="/assets/img/BZS.jpg"
          style="width: 180px; height: 240px; object-fit: cover; border-radius: 12px;"
@@ -42,7 +42,7 @@ nav_order: 9
 
 <h2>Ph.D. Students</h2>
 
-<div style="display: flex; flex-wrap: wrap; gap: 90px;">
+<div style="display: flex; flex-wrap: wrap; gap: 100px;">
 
   <div style="text-align: center; width: 180px;">
     <img src="/assets/img/ZYK.png"
@@ -82,7 +82,7 @@ nav_order: 9
 
 <h2>Master's Students</h2>
 
-<div style="display: flex; flex-wrap: wrap; gap: 40px;">
+<div style="display: flex; flex-wrap: wrap; gap: 30px;">
 
   <div style="text-align: center; width: 180px;">
     <img src="/assets/img/WYX.jpg"

@@ -57,7 +57,7 @@ nav_order: 9
 
   <div style="text-align: center; width: 180px;">
     <img src="/assets/img/GCL.jpg"
-         style="width: 180px; height: 220px; object-fit: cover; border-radius: 12px;"
+         style="width: 180px; height: 240px; object-fit: cover; border-radius: 12px;"
          alt="Chenglong Guo">
 
     <p>
@@ -75,7 +75,7 @@ nav_order: 9
 
   <div style="text-align: center; width: 180px;">
     <img src="/assets/img/JTY.jpg"
-         style="width: 180px; height: 220px; object-fit: cover; border-radius: 12px;"
+         style="width: 180px; height: 240px; object-fit: cover; border-radius: 12px;"
          alt="Tianyi Jiang">
 
     <p>

@@ -61,7 +61,7 @@ nav_order: 9
          alt="Chenglong Guo">
 
     <p>
-      <strong>Chenglong Guo</strong><br>
+      <strong>Chenglong Guo</strong><br>co-supervised with Prof. Fuchun Sun<br>
       Class of 2026
     </p>
   </div>

@@ -28,8 +28,8 @@ nav_order: 9
     <p><strong>Yinkai Zhu</strong><br>Class of 2026</p>
   </div>
   <div style="text-align: center; width: 180px;">
-    <img src="/assets/img/ZYK.png" style="width: 100%; border-radius: 12px;" alt="Yinkai Zhu">
-    <p><strong>Yinkai Zhu</strong><br>Class of 2026</p>
+    <img src="/assets/img/GCL.jpg" style="width: 100%; border-radius: 12px;" alt="Chenglong Guo">
+    <p><strong>Chenglong Guo</strong><br>Class of 2026</p>
   </div>
 </div>
 

@@ -51,6 +51,7 @@ nav_order: 9
 
     <p>
       <strong>Yinkai Zhu</strong><br>
+      Joined in 2026
     </p>
   </div>
 
@@ -61,6 +62,7 @@ nav_order: 9
 
     <p>
       <strong>Chenglong Guo</strong><br>
+      Joined in 2026
 
     </p>
   </div>
@@ -72,6 +74,7 @@ nav_order: 9
 
     <p>
       <strong>Xuanyu Lai</strong><br>
+      Joined in 2026<br>
       (co-supervised with<br>Prof. Fuchun Sun)
     </p>
   </div>
@@ -90,6 +93,7 @@ nav_order: 9
 
     <p>
       <strong>Yuxuan Wang</strong><br>
+      Joined in 2026
     </p>
   </div>
 
@@ -100,6 +104,7 @@ nav_order: 9
 
     <p>
       <strong>Haorui Jia</strong><br>
+      Joined in 2026
     </p>
   </div>
 
@@ -110,6 +115,7 @@ nav_order: 9
 
     <p>
       <strong>Tianyi Jiang</strong><br>
+      Joined in 2026
     </p>
   </div>
 
